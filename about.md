@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-# [whoami](#whoami)
+# [#whoami](#whoami)
 <dl>
   <dt>Full name</dt>
   <dd>Muhammad Rivaldi Saputra Olii</dd>
@@ -30,7 +30,6 @@ title: About
         <dt>Binus University
           <dd>Major: Computer Science</dd>
           <dd>Stream/Minor: Software Engineering</dd>
-          <dd>GPA: 3.25</dd>
         </dt>
         <dt>Dong-A University
           <dd>Major: Computer Engineering</dd>
@@ -42,13 +41,13 @@ title: About
 # [Experience](#experience)
 *   Software Engineer
 
-&nbsp;&nbsp;&nbsp;&nbsp;PT.  Mekari (Dec 2018 - current)
+&nbsp;&nbsp;&nbsp;&nbsp;PT.  Mid Solusi Nusantara - Mekari (Dec 2018 - current)
 
 &nbsp;&nbsp;&nbsp;&nbsp;Joined Kingsman Team
 
 * Software Engineer
 
-&nbsp;&nbsp;&nbsp;&nbsp;PT. Jurnal Consulting Indonesia (Aug 2018 - Dec 2018)
+&nbsp;&nbsp;&nbsp;&nbsp;PT. Jurnal Consulting Indonesia - jurnal.id (Aug 2018 - Dec 2018)
 
 &nbsp;&nbsp;&nbsp;&nbsp;Joined Kingsman Team
 
