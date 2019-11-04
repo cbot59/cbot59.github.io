@@ -1,5 +1,6 @@
-title: Rivaldi-Blog
-description: "A Journey of Software Craftman from Gorontalo"
+title: "A Journey to be a Software Craftsman from Gorontalo"
+description: "A blog written by Rivaldi, a man who was born in Gorontalo. His journey is being written, read the stories."
+url: rivaldi.dev
 author:
   name: "Rivaldi"
   email: "cbot59@gmail.com"
@@ -26,6 +27,15 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-sitemap
+
+# SEO variables
+social:
+  links:
+    - https://dev.to/cbot59
+    - https://github.com/cbot59/
+    - https://www.linkedin.com/in/cbot59/
+    - https://instagram.com/rivaldi.dev
+    - https://t.me/cbot59
 
 # Custom variables
 owner : "Rivaldi"
